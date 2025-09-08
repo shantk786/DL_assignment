@@ -1,1 +1,1 @@
-Assignments of deep learning 
+Assignments of deep learning and Artificial intelligence
